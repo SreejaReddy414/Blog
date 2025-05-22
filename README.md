@@ -62,7 +62,7 @@ npm install
 ### 3. Start the API Server (Port 4000)
 
 ```bash
-node api.js
+node index.js
 ```
 
 ### 4. Start the Frontend Server (Port 3000)
