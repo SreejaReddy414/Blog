@@ -37,7 +37,7 @@ project-root/
 ├── public/             # Static files (CSS, images, etc.)
 ├── views/              # EJS templates (index.ejs, modify.ejs)
 ├── server.js           # Frontend server (renders pages, handles forms)
-├── api.js              # Backend server (API with in-memory DB)
+├── index.js              # Backend server (API with in-memory DB)
 ├── package.json        
 └── README.md           
 ```
